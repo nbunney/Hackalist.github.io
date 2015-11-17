@@ -17,6 +17,23 @@
       "twitterURL": "https://twitter.com/deltahacks",
       "googlePlusURL": "",
       "notes": "travel reimbursements provided on case by case basis"	
+    },
+    {
+      "title": "Valley Hackathon",
+      "url": "http://www.ValleyHackathon.com", 
+      "startDate": "January 15",
+      "endDate": "January 16",
+      "year": "2016", 
+      "city": "Modesto, CA",
+      "host": "Alliance Small Business Development Center",
+      "length": "24",
+      "size": "50",
+      "travel": "no",
+      "prize": "5000",
+      "highSchoolers": "yes",
+      "twitterURL": "https://twitter.com/ValleyHackathon",
+      "googlePlusURL": "",
+      "notes": "Big prizes, small venue, near SF, what is not to love."	
     }
   ]
 }
